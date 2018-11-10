@@ -8,7 +8,7 @@
 #include <TFile.h>
 #include <TRandom3.h>
 #include <TTree.h>
-#include "Event.h"
+#include "../inc/Event.h"
 
 using namespace std;
 
